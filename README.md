@@ -4,7 +4,7 @@ Welcome to topia, a toy i have been dreaming for hundreds times:A small computer
 
 ## Hardware
 
-A RISC(MIPS) 32bit CPU, ~100MHz. Written in Verilog HDL, running on Altera DE2 board(should be easyly ported to other platforms). An emulator is provided.
+A RISC(MIPS) 32bit CPU, ~100MHz. Written in Verilog HDL, running on Altera DE2 board(should be easily ported to other platforms). An emulator is provided.
 
 ## Operating System
 
